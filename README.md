@@ -2,4 +2,4 @@
 
 Klik hieronder om het notebook direct in Google Colab te openen:
 
-[Open in Colab](https://colab.research.google.com/github/DannyLemmers/Stappenteller-2025/blob/main/notebook/stappenteller_hypothese_toetsen.ipynb)
+[Open in Colab](https://colab.research.google.com/github/DannyLemmers/Stappenteller-2025/blob/main/notebook/stappenteller_hypothese_toetsen_STUDENT.ipynb)
