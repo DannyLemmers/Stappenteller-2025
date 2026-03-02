@@ -8,4 +8,4 @@ Klik hieronder om het notebook direct in Google Colab te openen:
 
 ## Correlaties
 
-[Open in Colab](https://colab.research.google.com/github/DannyLemmers/Stappenteller-2025/blob/main/notebook/stappenteller_correlaties_DOCENT.ipynb)
+[Open in Colab](https://colab.research.google.com/github/DannyLemmers/Stappenteller-2025/blob/main/notebook/stappenteller_correlaties_STUDENT.ipynb)
